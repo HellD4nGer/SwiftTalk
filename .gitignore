@@ -1,0 +1,12 @@
+src/assets/favicon.png
+src/assets/adaptive-icon.png
+src/assets/icon.png
+src/assets/icon1.png
+src/assets/logo2.png
+src/assets/splash-icon.png
+src/firebase/config.js
+src/firebase/db.js
+src/package.json
+src/package-lock.json
+src/app.json
+src/firebase/
